@@ -6,4 +6,5 @@ Bring me a coffey, Honey!
 Terminal activated.
 HI
 Ho Ho Ho Ho
+$fortune
 

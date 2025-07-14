@@ -101,6 +101,9 @@ if os.path.isfile(file):
                 break
     else:
         msg = random.choice(lines)
+    
+    if len(msg) >= 35:
+        font_name="standart"
 
     msg = os.path.expandvars(msg)
     display_message(msg, font_name, color_mode)
