@@ -1,0 +1,6 @@
+Welcome, $USER !
+    HELLO, WORLD!
+Have a productive day!
+Code. Debug. Repeat.
+Bring me a coffey, Honey!
+Terminal activated.

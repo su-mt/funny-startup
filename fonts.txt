@@ -1,0 +1,7 @@
+standard
+isometric2
+ntgreek
+roman
+serifcap
+mirror
+graffiti
