@@ -1,6 +1,8 @@
 funny‐startup
 ================
 
+![gif](output.gif)
+
 A simple setup script that configures your shell (Bash or Zsh) to automatically launch a Python ASCII‑art message on each interactive session.
 
 ## Features
