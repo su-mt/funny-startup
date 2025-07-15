@@ -7,6 +7,7 @@ A simple setup script that configures your shell (Bash or Zsh) to automatically 
 
 ## Features
 
+- shell command `hi`, to print greeting
 - Detects whether you use Bash (`.bashrc`) or Zsh (`.zshrc`).
 - Prepends environment variables (`FUNNY_START_HOME`, `FIGLET_FONTS_DIR`) to your shell rc‑file.
 - Adds an interactive hook to run your Python ASCII‑art script (`colorfiglet.py`) on every new shell session.
