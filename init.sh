@@ -33,7 +33,12 @@ echo "Adding configuration to $rc_file ..."
     echo "if [[ \$- == *i* ]]; then"
     echo "    \"$script_dir/.venv/bin/python\" \"$script_dir/colorfiglet.py\""
     echo "fi"
+    echo "# --- aciiart function hi "
+    echo "hi () {"
+    echo "  \"$script_dir/.venv/bin/python\" \"$script_dir/colorfiglet.py\""
+    echo "}"
     echo "# --- end asciiart startup ---"
+
 } >> "$rc_file"
 
 echo "Done. Please restart your shell or run 'source $rc_file' to apply changes."
